@@ -1,0 +1,8 @@
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\bin\Debug\Tiktak Game.exe.config
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\bin\Debug\Tiktak Game.exe
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\bin\Debug\Tiktak Game.pdb
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\obj\Debug\Tiktak Game.csproj.AssemblyReference.cache
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\obj\Debug\Tiktak Game.csproj.SuggestedBindingRedirects.cache
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\obj\Debug\Tiktak Game.csproj.CoreCompileInputs.cache
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\obj\Debug\Tiktak Game.exe
+D:\UDEMY OPP PRACTICE\UDEMY PRACTICE\Tiktak Game\obj\Debug\Tiktak Game.pdb
